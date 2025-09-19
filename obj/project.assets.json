@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ruanp\\OneDrive\\Desktop\\matrizes\\Matrizes\\Matrizes.csproj",
+      "projectUniqueName": "C:\\Users\\ruanp\\OneDrive\\Desktop\\matrizes01\\Matrizes.csproj",
       "projectName": "Matrizes",
-      "projectPath": "C:\\Users\\ruanp\\OneDrive\\Desktop\\matrizes\\Matrizes\\Matrizes.csproj",
+      "projectPath": "C:\\Users\\ruanp\\OneDrive\\Desktop\\matrizes01\\Matrizes.csproj",
       "packagesPath": "C:\\Users\\ruanp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ruanp\\OneDrive\\Desktop\\matrizes\\Matrizes\\obj\\",
+      "outputPath": "C:\\Users\\ruanp\\OneDrive\\Desktop\\matrizes01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ruanp\\AppData\\Roaming\\NuGet\\NuGet.Config"
