@@ -3,7 +3,7 @@ using MinhaBiblioteca;
 using static MinhaBiblioteca.Biblioteca;
 class ex001 
 {
-    //Crie uma função que receba uma matriz de N Linhas x M Colunas valores inteiros e retorne qual o menor valor da matriz.
+    /*Crie uma função que receba uma matriz de N Linhas x M Colunas valores inteiros e retorne qual o menor valor da matriz.*/
     static int getMin(int[,] matriz)
     {
         int linhas = matriz.GetLength(0);

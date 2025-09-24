@@ -3,7 +3,7 @@ using MinhaBiblioteca;
 
 class ex002
 {
-    //Crie uma função que receba uma matriz de N Linhas x M Colunas valores inteiros e retorne qual o maior valor da matriz.
+    /*Crie uma função que receba uma matriz de N Linhas x M Colunas valores inteiros e retorne qual o maior valor da matriz.*/
     static int getMax(int[,] matriz)
     {
         int linhas = matriz.GetLength(0);

@@ -2,9 +2,9 @@ using System;
 using MinhaBiblioteca;
 class ex003
 {
-    //Crie uma função que receba uma matriz N por M e conte quantos números iguais a X existem na matriz. X
-    //deve ser informado pelo usuário (parâmetro da função). Retorne a quantas ocorrências de X existem na
-    //matriz.
+    /*Crie uma função que receba uma matriz N por M e conte quantos números iguais a X existem na matriz. X
+    deve ser informado pelo usuário (parâmetro da função). Retorne a quantas ocorrências de X existem na
+    matriz.*/
     static int contarOcorrencias(int[,] matriz, int x)
     {
         int linhas = matriz.GetLength(0);
